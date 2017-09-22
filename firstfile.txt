@@ -1,2 +1,3 @@
 This is my first file with Git.  Hooray!
+And some change text, just for fun.
 
