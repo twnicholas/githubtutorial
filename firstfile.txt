@@ -1,3 +1,4 @@
-This is my first file with Git.  Hooray!
+This is my first file with Git.  
 And some change text, just for fun.
 
+Some changes for the sake of changes.
