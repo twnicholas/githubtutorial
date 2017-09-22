@@ -2,3 +2,4 @@ And this is the third file.
 With more than one line.
 And, don't forget the changes!
 
+Now we have a need for more changes.
