@@ -2,3 +2,7 @@ This is my first file with Git.
 And some change text, just for fun.
 
 Some changes for the sake of changes.
+
+Another, unwanted change.
+
+Another change for NewFeature branch.
